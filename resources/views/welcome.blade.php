@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="{{ asset('images/favgovbot.png') }}">
+        <link rel="shortcut icon" src="images/favgovbot.png">
 
         <title>GovBot</title>
 
@@ -86,7 +86,7 @@
                 </div>
                 <img style="text-align:center;width:150px;height:150px;" src="images/govbot.png" alt="">                    
                  <h3 class="m-b-md">
-                    A chatbot which provides you insights towards a Malaysian entrepreneur
+                    GovBot provides you insights into a Malaysian entrepreneur
                 </h3>
                 
                 <iframe
