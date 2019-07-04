@@ -81,18 +81,24 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <!-- <img src="../../public/images/govbot.png" alt="govbot"> -->
-                    GovBot
+                    
                 </div>
-                <h3 class="m-b-md">
+                <img style="text-align:center;width:150px;height:150px;" src="images/govbot.png" alt="">                    
+                 <h3 class="m-b-md">
                     A chatbot which provides you insights towards a Malaysian entrepreneur
                 </h3>
+                
                 <iframe
                     allow="microphone;"
                     width="350"
-                    height="430"
+                    height="450"
                     src="https://console.dialogflow.com/api-client/demo/embedded/7b6e00ba-7a40-4aa1-be0c-0eeec7172a60">
                 </iframe>
+                <div class="title m-b-md">
+                    
+                </div>
+
+               
 
             </div>
         </div>
